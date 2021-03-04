@@ -19,6 +19,8 @@ publishing {
             - command line arguments
             - environment variables
             - or a combination of those options
+
+            https://docs.gradle.org/6.6.1/userguide/declaring_repositories.html#sec:handling_credentials
          */
         maven {
             name = "repsy"
