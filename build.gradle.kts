@@ -14,7 +14,7 @@ publishing {
 
     repositories {
         /*
-            this will fetch repsyUsername and repsyPassword from:
+            this will fetch `repsyUsername` and `repsyPassword` from:
             - gradle.properties file (in your home, it must not be under VCS!)
             - command line arguments
             - environment variables
